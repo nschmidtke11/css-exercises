@@ -1,22 +1,13 @@
-/* style.css */
-
-.odd {
+p {
     background-color: pink;
-    font-family: verdana, "DevaVu Sans", sans-serif;
+    font-family: Verdana "DejaVu Sans" sans-serif;
 }
 
-#two {
-    color: blue;
-    background-color: white;
-    font-size: 36px;
+.bold {
+    font-weight: 700;
+    font-size: 24px;
 }
 
-.adjust-font-size {
-    font-size: 24px;    
-}
-
-#four {
+.even {
     background-color: greenyellow;
-    font-weight: bold;
 }
-
